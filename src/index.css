@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+    background: black;
+    color: white;
+     font-family: 'Satoshi', sans-serif;
+}
+
+@font-face {
+  font-family: 'Marcellus';
+  src: url('./assets/font/Marcellus-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.marcellus-text {
+  font-family: 'Marcellus', serif;
+}
