@@ -116,7 +116,7 @@ const Projects = () => {
               title: "My Portfolio",
               description:
                 "Developed a fully responsive and modern personal portfolio website using React and Tailwind CSS. The project showcases my skills and projects, ensuring scalability and easy maintenance. I am Krunal Panchal, a passionate Frontend Developer from India with over one year of professional experience. I specialize in building responsive, user-friendly web applications using React, Tailwind CSS, HTML, CSS, and JavaScript. Currently working at Great Idea Tech Company, I focus on creating seamless UI/UX designs and optimizing performance. Proficient in React.js, JavaScript (ES6+), and Tailwind CSS Strong knowledge of HTML5 and CSS3 for semantic and styled layouts Experience with Git and GitHub for version control Familiar with RESTful APIs and state management (e.g., Context API) Basic understanding of backend integration with Node.js",
-              link: "https://richmond-self.vercel.app/",
+              link: "https://krunal-portfolio-zeta.vercel.app/",
             },
           ].map((project, index) => (
             <motion.div
