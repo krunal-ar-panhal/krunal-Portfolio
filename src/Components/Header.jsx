@@ -37,7 +37,7 @@ const Header = () => {
         animate="visible"
       >
         <motion.a
-          href="https://www.linkedin.com/in/krunal-panchal-261bba299/"
+          href="https://www.linkedin.com/in/krunal-panchal-055a4125a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
           className="cursor-pointer text-2xl hover:text-blue-600 hover:drop-shadow-[0_0_10px_#3b82f6]"
           variants={iconVariants}
           whileHover="hover"
