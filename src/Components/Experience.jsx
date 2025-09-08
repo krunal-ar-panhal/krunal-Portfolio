@@ -27,7 +27,7 @@ const Experience = () => {
           <p className="text-4xl font-bold text-center marcellus-text">Experience</p>
         </motion.div>
         <motion.div
-          className="mt-20 lg:flex-row flex flex-col lg:gap-48 gap-10 text-center lg:text-start"
+          className="mt-20 lg:flex-row flex flex-col lg:gap-48 gap-10 text-center  lg:text-start"
           initial={{ opacity: 0, x: -100 }}
           whileInView={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
@@ -41,7 +41,7 @@ const Experience = () => {
           >
             <p className="whitespace-nowrap">July 2024 - Present</p>
           </motion.div>
-          <div className="ml-10 flex flex-col gap-3">
+          <div className="lg:ml-10 flex flex-col gap-3">
             <motion.p
               className="font-semibold marcellus-text text-2xl"
               initial={{ opacity: 0, x: -50 }}
