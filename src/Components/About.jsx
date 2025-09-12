@@ -32,7 +32,7 @@ const About = () => {
           viewport={{ once: true, amount: 0.3 }}
           variants={textVariants}
         >
-          <p className="text-4xl tracking-widest font-bold marcellus-text">
+          <p className="text-4xl tracking-widest font-bold marcellus-text uppercase">
             About Me
           </p>
         </motion.div>

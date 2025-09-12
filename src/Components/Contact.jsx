@@ -23,7 +23,7 @@ const Contact = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <p className="text-4xl font-bold text-center marcellus-text">Get In Touch</p>
+          <p className="text-4xl font-bold text-center marcellus-text uppercase">Get In Touch</p>
         </motion.div>
         <div>
           <motion.div

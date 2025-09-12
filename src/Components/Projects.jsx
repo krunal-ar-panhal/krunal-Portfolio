@@ -91,7 +91,7 @@ const Projects = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, ease: "easeOut" }}
         >
-          <p className="text-4xl font-bold text-center marcellus-text">
+          <p className="text-4xl font-bold text-center marcellus-text uppercase">
             Projects (3)
           </p>
         </motion.div>

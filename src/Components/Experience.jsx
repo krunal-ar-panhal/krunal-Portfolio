@@ -24,7 +24,7 @@ const Experience = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <p className="text-4xl font-bold text-center marcellus-text">Experience</p>
+          <p className="text-4xl font-bold text-center marcellus-text uppercase">Experience</p>
         </motion.div>
         <motion.div
           className="mt-20 lg:flex-row flex flex-col lg:gap-48 gap-10 text-center  lg:text-start"

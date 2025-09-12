@@ -44,7 +44,7 @@ const Technologies = () => {
   return (
     <div id='skill'>
       <div className='max-w-7xl mx-auto items-center justify-center md:py-20 py-10 px-3'>
-        <div className='text-center text-4xl font-bold tracking-widest marcellus-text'>Technologies</div>
+        <div className='text-center text-4xl font-bold tracking-widest marcellus-text uppercase'>Technologies</div>
         <motion.div
           className="grid lg:grid-cols-6 md:grid-cols-3 grid-cols-2 md:gap-3 gap-5 lg:ml-0 md:ml-14 ml-10 justify-between mt-20"
           variants={container}
